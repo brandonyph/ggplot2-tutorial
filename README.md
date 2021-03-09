@@ -1,10 +1,14 @@
-\#———————————————————- \# ggplot - Introduction to Graphical
-Visualization \#———————————————————- \# \# 1. Basic Structure and syntax
-in ggplot2 \# 2. Exploration in data structure (dimentsion and variables
-properties) \# - Continous vs Discrete ? \# 3. Aesthetics definition \#
-4. Primitive Plots (Horiontal line vs Vertical line) \# 5. One Varible
-plot (geom\_histogram,geom\_bar) \# 5.1 Two varible plot (text, point,
-jitter, box etc) \# 6. Cases study on Covid19 Data \#
+## ggplot - Introduction to Graphical Visualization
+
+1. Basic Structure and syntax
+in ggplot2 
+2. Exploration in data structure (dimentsion and variables
+properties) ; Continous vs Discrete ?
+3. Aesthetics definition
+4. Primitive Plots (Horiontal line vs Vertical line)
+5. One Varible plot (geom\_histogram,geom\_bar) 
+6. Two varible plot (text, point,
+7. Cases study on Covid19 Data \#
 
 ``` r
 library(ggplot2)
